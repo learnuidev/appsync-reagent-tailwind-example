@@ -2,7 +2,7 @@
   (:require [reagent.dom :as rdom]))
 
 (defn app []
-  [:div "Hello Twitter"])
+  [:div.py-3.px-3 "Hello Twitter"])
 
 (defn ^:dev/after-load render
   "Render the toplevel component for this app."
