@@ -18,6 +18,8 @@
     "@testing-library/dom": "^7.19.0",
     "@testing-library/react": "^10.4.3",
     "autoprefixer": "^10.2.5",
+    "aws-amplify": "^3.3.26",
+    "aws-amplify-react": "^4.2.30",
     "clj-kondo": "2020.11.7",
     "cssnano": "^4.1.10",
     "highlight.js": "10.1.1",

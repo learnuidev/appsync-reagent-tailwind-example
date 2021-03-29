@@ -6,3 +6,7 @@ out
 .clj-kondo/.cache
 yarn-error.log
 report.html
+
+
+# Config
+src/app/config.cljs
