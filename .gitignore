@@ -10,3 +10,5 @@ report.html
 
 # Config
 src/app/config.cljs
+
+.DS_Store
