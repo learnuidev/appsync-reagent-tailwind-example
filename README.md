@@ -1,4 +1,11 @@
-# AWS AppSync + Reagent + Re-Frame + tailwind + tailwindcss-jit + Cognito
+SPA example app using:
+ - AWS Appsync
+ - AWS Cognito
+ - GraphQL
+ - Reagent
+ - Re-Frame
+ - tailwind
+ - tailwindcss-jit
 
 In the project directory, you can run:
 
