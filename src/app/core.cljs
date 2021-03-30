@@ -10,7 +10,7 @@
       (.catch #(js/console.log %))))
 
 (comment
-  (sign-in "learnuidev@gmail.com" "")
+  (sign-in "hello@demo.com" "")
   (sign-in (-> env :auth :email) (-> env :auth :password)))
 
 ;; 1. Configuring User Pool
