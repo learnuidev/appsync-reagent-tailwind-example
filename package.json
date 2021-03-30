@@ -11,7 +11,7 @@
     "report": "shadow-cljs run shadow.cljs.build-report app report.html",
     "clean": "rimraf public/js",
     "postcss:watch": "cross-env TAILWIND_MODE=watch postcss tailwind.css -o ./public/css/style.css --verbose -w && ls -S -lh ./public/css/style.css",
-    "postcss:release": "cross-env NODE_ENV=production postcss tailwind.css -o ./public/css/style.css --verbose && ls -S -lh ./public/css/style.css"
+    "postcss:build": "cross-env NODE_ENV=production postcss tailwind.css -o ./public/css/style.css --verbose && ls -S -lh ./public/css/style.css"
   },
   "devDependencies": {
     "@tailwindcss/jit": "^0.1.17",
