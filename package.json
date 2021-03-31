@@ -21,6 +21,7 @@
     "aws-amplify": "^3.3.26",
     "aws-amplify-react": "^4.2.30",
     "clj-kondo": "2020.11.7",
+    "cross-env": "^7.0.3",
     "cssnano": "^4.1.10",
     "highlight.js": "10.1.1",
     "jsdom": "^16.2.2",
@@ -38,9 +39,6 @@
     "zprint-clj": "~0.8.0"
   },
   "dependencies": {
-    "@headlessui/react": "^0.3.1",
-    "@tailwindcss/forms": "^0.3.2",
-    "cross-env": "^7.0.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
