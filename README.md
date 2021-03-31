@@ -7,7 +7,7 @@ Technologies Used
 - AWS Appsync: GraphQL Service
 - AWS Cognito: Auth Service
 - Reagent: Rendering Views
-- Re-Frame: State Management Library
+- Re-Frame: State Management Library (x)
 - tailwind: CSS Utility Library
 - tailwindcss-jit: css compiler
 - cssnano: css minifier
