@@ -1,4 +1,4 @@
-What is it?
+# What is it?
 
 In example shows how to build a SPA using - ClojureScript, AWS and tailwindcss.
 
@@ -14,11 +14,15 @@ Technologies Used
 
 ## Getting Started
 
-### `yarn start`
+```bash
+yarn start
+```
 
 Runs the app in development mode + compiles css in watch mode.<br>
 
-### `yarn build`
+```bash
+yarn build
+````
 
 Builds the app for production to the `public` folder.<br>
 Builds the css for production to the `public/css/style.css` folder
@@ -27,13 +31,16 @@ It correctly bundles all code and optimizes the build for the best performance.
 
 Your app is ready to be deployed!
 
-CSS Build Scripts
-
-### `yarn postcss:watch`
+## CSS Build Scripts
+```bash
+yarn postcss:watch
+```
 
 Compiles tailwind css in watch mode. Builds the css for developer to the `public/css/style.css` folder
 
-### `yarn postcss:build`
+```bash
+yarn postcss:build
+````
 
 Builds the css for production.
 
